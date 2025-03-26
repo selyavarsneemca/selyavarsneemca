@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+i am M.selya varsnee 
+Aspiring full stack developer
 <!--
 **selyavarsneemca/selyavarsneemca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
